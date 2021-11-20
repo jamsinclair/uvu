@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <b>uvu</b> is an extremely fast and lightweight test runner for Node.js and the browser<br>
+  <b>uvu</b> is an extremely fast and lightweight test runner for Node.js<br>
   <b>U</b>ltimate <b>V</b>elocity, <b>U</b>nleashed<br><br>
   <img width="380" alt="example with suites" src="shots/suites.gif"/>
 </div>
